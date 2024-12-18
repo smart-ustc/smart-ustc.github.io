@@ -5,7 +5,7 @@ I aim to apply for a **Ph.D. in Particle Physics** in **Fall 2026**, focusing on
 [smart_hu@mail.ustc.edu.cn](mailto:smart_hu@mail.ustc.edu.cn)
 
 #### 🎓 Education  
-**University of Science and Technology of China (USTC)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Sep 2022 – Present*  
+**University of Science and Technology of China (USTC)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Sep 2022 – Present*  
 *Yan Jici Talent Program in Physics, School of Physics*
  
 
