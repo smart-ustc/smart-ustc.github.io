@@ -5,12 +5,13 @@ And I am planning to apply Ph.D in Particle Physics.
 smart_hu[at]mail.ustc.edu.cn
 
 #### Education
-**University of Science and Technology of China (USTC)**  
+**University of Science and Technology of China (USTC)**  <div style="text-align: right;">Sep 2022 – Present</div>
+
 *Yan Jici Talent Program in Physics, School of Physics*  
-
-<div style="text-align: right;">Sep 2022 – Present</div>
-
 
 #### Research Interests
 R\&D of novel silicon detector.
 
+#### TA Works
+
+#### Selected Class Notes

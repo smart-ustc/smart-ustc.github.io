@@ -2,4 +2,4 @@
 
 - Excellent Student Scholarship - Silver, 2023.
 
-- China Undergraduate Physics Tournament - 1st Prize($4^{th}$ place), 2024
+- China Undergraduate Physics Tournament - $\mathbf{1}^{st}$ Prize ($\mathbf{4}^{th}$ place), 2024
