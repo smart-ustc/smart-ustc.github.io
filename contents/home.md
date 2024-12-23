@@ -2,7 +2,12 @@ I am currently pursuing a Bachelor's Degree in Physics at **University of Scienc
 I aim to apply for a **Ph.D. in Particle Physics** in **Fall 2026**, focusing on advancing detector technologies and experimental analysis in high-energy physics.
 
 #### ✉️ Email
-[smart_hu@mail.ustc.edu.cn](mailto:smart_hu@mail.ustc.edu.cn)
+
+| Address                          | Provider |
+|----------------------------------|----------|
+| [smart_hu@mail.ustc.edu.cn](mailto:smart_hu@mail.ustc.edu.cn) | USTC     |
+| [hjh15167216651@gmail.com](mailto:hjh15167216651@gmail.com)   | Gmail    |
+
 
 #### 🎓 Education  
 **University of Science and Technology of China (USTC)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Sep 2022 – Present*  

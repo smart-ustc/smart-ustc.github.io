@@ -309,9 +309,36 @@ svg {
   vertical-align: middle;
 }
 
+/* 设置表格占满宽度并居中内容 */
 table {
-  caption-side: bottom;
+  width: 100%;
   border-collapse: collapse;
+  margin: 20px auto; /* 表格上下间距 */
+  text-align: center; /* 默认内容居中 */
+}
+
+th, td {
+  padding: 10px; /* 增加单元格的内边距 */
+  border: 1px solid #ddd; /* 设置单元格的边框 */
+  vertical-align: middle; /* 内容垂直居中 */
+}
+
+th {
+  background-color: #f4f4f4; /* 设置表头的背景色 */
+  font-weight: bold; /* 表头加粗 */
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9; /* 奇偶行不同背景色 */
+}
+
+a {
+  color: #007bff; /* 链接颜色 */
+  text-decoration: none; /* 去掉下划线 */
+}
+
+a:hover {
+  text-decoration: underline; /* 悬停时添加下划线 */
 }
 
 caption {
