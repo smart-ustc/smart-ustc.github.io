@@ -10,8 +10,15 @@ I aim to apply for a **Ph.D. in Particle Physics** in **Fall 2026**, focusing on
 
 
 #### 🎓 Education  
-**University of Science and Technology of China (USTC)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Sep 2022 – Present*  
-*Yan Jici Talent Program in Physics, School of Physics*
+<div class="education-entry">
+    <div class="education-row">
+        <span class="edu-left"><strong>University of Science and Technology of China (USTC)</strong></span>
+        <span class="edu-right"><em>Sep 2022 – Present</em></span>
+    </div>
+    <div class="education-subtitle">
+        <em>Yan Jici Talent Program in Physics, School of Physics</em>
+    </div>
+</div>
  
 
 #### 🔬 Research Interests

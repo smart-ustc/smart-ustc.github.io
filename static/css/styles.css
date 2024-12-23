@@ -10936,6 +10936,35 @@ footer a:hover, footer a:active, footer a:focus {
   text-decoration: underline;
 }
 
+.education-entry {
+  margin-bottom: 20px; /* 每个教育条目之间的间距 */
+  font-size: 1.1em;    /* 调整字体大小 */
+}
+
+.education-row {
+  display: flex;       /* 使用 Flexbox 布局实现左右对齐 */
+  justify-content: space-between; /* 左右两边的内容分开对齐 */
+  align-items: center; /* 垂直方向居中对齐 */
+  margin-bottom: 5px;  /* 行之间的间距 */
+}
+
+.edu-left {
+  font-weight: bold;   /* 左侧内容加粗 */
+  color: #333;         /* 左侧内容颜色 */
+}
+
+.edu-right {
+  font-style: italic;  /* 右侧内容斜体 */
+  color: #555;         /* 右侧内容颜色 */
+  text-align: right;   /* 右侧内容右对齐 */
+  min-width: 150px;    /* 设置最小宽度以避免换行 */
+}
+
+.education-subtitle {
+  margin-left: 10px;   /* 副标题的缩进 */
+  color: #666;         /* 副标题颜色 */
+  font-style: italic;  /* 副标题斜体 */
+}
 
 
 
