@@ -24,10 +24,12 @@ I aim to apply for a **Ph.D. in Particle Physics** in **Fall 2026**, focusing on
 #### 🔬 Research Interests
 R&D of novel silicon detector.
 
+
 #### 🌟 Skills & Expertise  
 - **Programming**: C++, Python, ROOT, LaTeX  
 - **Simulation Tools**: TCAD, Allpix-Squared  
 - **Experimental Analysis**: Detector testing, Data processing 
+
 
 #### 🌍 Future Goals  
 To contribute to **cutting-edge research** in particle physics, combining simulation, detector development, and physics analysis(not yet) studies at renowned international laboratories.
