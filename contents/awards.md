@@ -6,4 +6,4 @@
   *1<sup>st</sup> Prize (4<sup>th</sup> place)*, *2024*
 
 - **China Undergraduate Physics Experiment Competition**  
-  *Excellence Prize*
+  *Excellence Prize*, *2023*
