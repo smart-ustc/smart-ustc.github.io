@@ -1,7 +1,7 @@
 ### Quantum Field Theory – Fall 2024
 📒 [Lecture Notes (PDF)](static/assets/Notes/QFT.pdf)
 
-📃 [Extra Essay -- Quantization of Vector Field](assets/Notes/mini-essay-optics.pdf)
+📃 [Extra Essay -- Quantization of Vector Field](static/assets/Notes/vector_field.pdf)
 
 ---
 
