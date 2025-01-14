@@ -11,3 +11,4 @@ As one of the Teaching Assistants for Mechanics (Fall 2024) taught by **Prof. La
 | Reference Answer      |  Assignment7-Fluids                                | [Download PDF](static/assets/TA_document/Reference_Answer7.pdf) |
 | Discussion Class       |  Disc2-Newton's Law                               | [Download PDF](static/assets/TA_document/disc2_NewtonLaw.pdf)  |
 | Discussion Class       |  Disc3-Rigid Body                                 | [Download PDF](static/assets/TA_document/disc3_RigidBody.pdf)  |
+| Discussion Class       |  Disc5-Special Relativity                         | [Download PDF](static/assets/TA_document/disc5_SpecialRelativity.pdf)  |
