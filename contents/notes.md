@@ -5,6 +5,13 @@
 
 ---
 
+### Atom Physics – Spring 2024
+📃 [Mini Essay -- Measurement of the anomalous magnetic moment of muons (Principle Part)](static/assets/Notes/Muon.pdf)
+
+👨‍🏫 [Mini Essay -- Measurement of the anomalous magnetic moment of muons (Beamer Part)](static/assets/Notes/Muon_Beamer.pdf)
+
+---
+
 ### Quantum Mechanics – Fall 2023
 📒 [Lecture Notes (PDF)](static/assets/Notes/QM-note.pdf)
 
